@@ -1,0 +1,8 @@
+shifter: source: No such file or directory
+shifter: conda: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+srun: error: nid00763: tasks 0-3: Exited with exit code 127
+srun: launch/slurm: _step_signal: Terminating StepId=60958691.0

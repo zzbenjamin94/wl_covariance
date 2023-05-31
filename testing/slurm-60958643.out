@@ -1,0 +1,7 @@
+/var/spool/slurmd/job60958643/slurm_script: line 8: /opt/miniconda3/etc/profile.d/conda.sh: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+/usr/bin/shifter: python: No such file or directory
+srun: error: nid00792: tasks 0-3: Exited with exit code 127
+srun: launch/slurm: _step_signal: Terminating StepId=60958643.0

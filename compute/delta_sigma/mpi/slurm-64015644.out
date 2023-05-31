@@ -1,0 +1,1796 @@
+For rank  0 n_start:  0 , n_end:  3
+Rank  0 number of clusters:  3
+Gatherv_length:  [60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60.
+ 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 60. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40. 40.
+ 40. 40. 40. 40.]
+Gatherv_offset:  [    0.    60.   120.   180.   240.   300.   360.   420.   480.   540.
+   600.   660.   720.   780.   840.   900.   960.  1020.  1080.  1140.
+  1200.  1260.  1320.  1380.  1440.  1500.  1560.  1620.  1680.  1740.
+  1800.  1860.  1920.  1980.  2040.  2100.  2160.  2220.  2280.  2340.
+  2400.  2460.  2520.  2580.  2640.  2700.  2760.  2820.  2880.  2940.
+  3000.  3060.  3120.  3180.  3240.  3300.  3360.  3420.  3480.  3540.
+  3600.  3660.  3720.  3780.  3840.  3900.  3960.  4020.  4080.  4140.
+  4200.  4260.  4320.  4380.  4440.  4500.  4560.  4620.  4680.  4740.
+  4800.  4860.  4920.  4980.  5040.  5100.  5160.  5220.  5280.  5340.
+  5400.  5460.  5520.  5580.  5640.  5700.  5760.  5820.  5880.  5940.
+  6000.  6060.  6120.  6180.  6240.  6300.  6360.  6420.  6480.  6540.
+  6600.  6660.  6720.  6780.  6840.  6900.  6960.  7020.  7080.  7140.
+  7200.  7260.  7320.  7380.  7440.  7500.  7560.  7620.  7680.  7740.
+  7800.  7860.  7920.  7980.  8040.  8100.  8160.  8220.  8280.  8340.
+  8400.  8460.  8520.  8580.  8640.  8700.  8760.  8820.  8880.  8940.
+  9000.  9060.  9120.  9180.  9240.  9300.  9360.  9420.  9480.  9540.
+  9600.  9660.  9720.  9780.  9840.  9900.  9960. 10020. 10080. 10140.
+ 10200. 10260. 10320. 10380. 10440. 10500. 10560. 10620. 10680. 10740.
+ 10800. 10860. 10920. 10980. 11040. 11100. 11160. 11220. 11280. 11340.
+ 11400. 11460. 11520. 11580. 11640. 11700. 11760. 11820. 11880. 11940.
+ 12000. 12060. 12120. 12180. 12240. 12300. 12360. 12420. 12480. 12540.
+ 12600. 12660. 12720. 12780. 12840. 12900. 12960. 13020. 13080. 13140.
+ 13200. 13260. 13320. 13380. 13440. 13500. 13560. 13620. 13680. 13740.
+ 13800. 13860. 13920. 13980. 14040. 14100. 14160. 14220. 14280. 14340.
+ 14400. 14460. 14520. 14580. 14640. 14700. 14760. 14820. 14880. 14940.
+ 15000. 15060. 15120. 15180. 15240. 15300. 15360. 15420. 15480. 15540.
+ 15600. 15660. 15720. 15780. 15840. 15900. 15960. 16020. 16080. 16140.
+ 16200. 16260. 16320. 16380. 16440. 16500. 16560. 16620. 16680. 16740.
+ 16800. 16860. 16920. 16980. 17040. 17100. 17160. 17220. 17280. 17340.
+ 17400. 17460. 17520. 17580. 17640. 17700. 17760. 17820. 17880. 17940.
+ 18000. 18060. 18120. 18180. 18240. 18300. 18360. 18420. 18480. 18540.
+ 18600. 18660. 18720. 18780. 18840. 18900. 18960. 19020. 19080. 19140.
+ 19200. 19260. 19320. 19380. 19440. 19500. 19560. 19620. 19680. 19740.
+ 19800. 19860. 19920. 19980. 20040. 20100. 20160. 20200. 20240. 20280.
+ 20320. 20360. 20400. 20440. 20480. 20520. 20560. 20600. 20640. 20680.
+ 20720. 20760. 20800. 20840. 20880. 20920. 20960. 21000. 21040. 21080.
+ 21120. 21160. 21200. 21240. 21280. 21320. 21360. 21400. 21440. 21480.
+ 21520. 21560. 21600. 21640. 21680. 21720. 21760. 21800. 21840. 21880.
+ 21920. 21960. 22000. 22040. 22080. 22120. 22160. 22200. 22240. 22280.
+ 22320. 22360. 22400. 22440. 22480. 22520. 22560. 22600. 22640. 22680.
+ 22720. 22760. 22800. 22840. 22880. 22920. 22960. 23000. 23040. 23080.
+ 23120. 23160. 23200. 23240. 23280. 23320. 23360. 23400. 23440. 23480.
+ 23520. 23560. 23600. 23640. 23680. 23720. 23760. 23800. 23840. 23880.
+ 23920. 23960. 24000. 24040. 24080. 24120. 24160. 24200. 24240. 24280.
+ 24320. 24360. 24400. 24440. 24480. 24520. 24560. 24600. 24640. 24680.
+ 24720. 24760. 24800. 24840. 24880. 24920. 24960. 25000. 25040. 25080.
+ 25120. 25160. 25200. 25240. 25280. 25320. 25360. 25400. 25440. 25480.
+ 25520. 25560. 25600. 25640. 25680. 25720. 25760. 25800. 25840. 25880.
+ 25920. 25960. 26000. 26040. 26080. 26120. 26160. 26200. 26240. 26280.
+ 26320. 26360. 26400. 26440. 26480. 26520. 26560. 26600. 26640. 26680.
+ 26720. 26760. 26800. 26840. 26880. 26920. 26960. 27000. 27040. 27080.
+ 27120. 27160. 27200. 27240. 27280. 27320. 27360. 27400. 27440. 27480.
+ 27520. 27560. 27600. 27640. 27680. 27720. 27760. 27800. 27840. 27880.
+ 27920. 27960. 28000. 28040. 28080. 28120. 28160. 28200. 28240. 28280.
+ 28320. 28360. 28400. 28440. 28480. 28520. 28560. 28600. 28640. 28680.
+ 28720. 28760. 28800. 28840. 28880. 28920. 28960. 29000. 29040. 29080.
+ 29120. 29160. 29200. 29240. 29280. 29320. 29360. 29400. 29440. 29480.
+ 29520. 29560. 29600. 29640. 29680. 29720. 29760. 29800. 29840. 29880.
+ 29920. 29960. 30000. 30040. 30080. 30120. 30160. 30200. 30240. 30280.
+ 30320. 30360. 30400. 30440. 30480. 30520. 30560. 30600. 30640. 30680.
+ 30720. 30760. 30800. 30840. 30880. 30920. 30960. 31000. 31040. 31080.
+ 31120. 31160. 31200. 31240. 31280. 31320. 31360. 31400. 31440. 31480.
+ 31520. 31560. 31600. 31640. 31680. 31720. 31760. 31800. 31840. 31880.
+ 31920. 31960. 32000. 32040. 32080. 32120. 32160. 32200. 32240. 32280.
+ 32320. 32360. 32400. 32440. 32480. 32520. 32560. 32600. 32640. 32680.
+ 32720. 32760. 32800. 32840. 32880. 32920. 32960. 33000. 33040. 33080.
+ 33120. 33160. 33200. 33240. 33280. 33320. 33360. 33400. 33440. 33480.
+ 33520. 33560. 33600. 33640. 33680. 33720. 33760. 33800. 33840. 33880.
+ 33920. 33960. 34000. 34040. 34080. 34120. 34160. 34200. 34240. 34280.
+ 34320. 34360. 34400. 34440. 34480. 34520. 34560. 34600. 34640. 34680.
+ 34720. 34760. 34800. 34840. 34880. 34920. 34960. 35000. 35040. 35080.
+ 35120. 35160. 35200. 35240. 35280. 35320. 35360. 35400. 35440. 35480.
+ 35520. 35560. 35600. 35640. 35680. 35720. 35760. 35800. 35840. 35880.
+ 35920. 35960. 36000. 36040. 36080. 36120. 36160. 36200. 36240. 36280.
+ 36320. 36360. 36400. 36440. 36480. 36520. 36560. 36600. 36640. 36680.
+ 36720. 36760. 36800. 36840. 36880. 36920. 36960. 37000. 37040. 37080.
+ 37120. 37160. 37200. 37240. 37280. 37320. 37360. 37400. 37440. 37480.
+ 37520. 37560. 37600. 37640. 37680. 37720. 37760. 37800. 37840. 37880.
+ 37920. 37960. 38000. 38040. 38080. 38120. 38160. 38200. 38240. 38280.
+ 38320. 38360. 38400. 38440. 38480. 38520. 38560. 38600. 38640. 38680.
+ 38720. 38760. 38800. 38840. 38880. 38920. 38960. 39000. 39040. 39080.
+ 39120. 39160. 39200. 39240. 39280. 39320. 39360. 39400. 39440. 39480.
+ 39520. 39560. 39600. 39640. 39680. 39720. 39760. 39800. 39840. 39880.
+For rank  591 n_start:  1518 , n_end:  1520
+Rank  591 number of clusters:  2
+For rank  499 n_start:  1334 , n_end:  1336
+Rank  499 number of clusters:  2
+For rank  592 n_start:  1520 , n_end:  1522
+Rank  592 number of clusters:  2
+For rank  544 n_start:  1424 , n_end:  1426
+Rank  544 number of clusters:  2
+For rank  685 n_start:  1706 , n_end:  1708
+Rank  685 number of clusters:  2
+For rank  812 n_start:  1960 , n_end:  1962
+Rank  812 number of clusters:  2
+For rank  1 n_start:  3 , n_end:  6
+Rank  1 number of clusters:  3
+For rank  748 n_start:  1832 , n_end:  1834
+Rank  748 number of clusters:  2
+For rank  457 n_start:  1250 , n_end:  1252
+Rank  457 number of clusters:  2
+For rank  160 n_start:  480 , n_end:  483
+Rank  160 number of clusters:  3
+For rank  429 n_start:  1194 , n_end:  1196
+Rank  429 number of clusters:  2
+For rank  362 n_start:  1060 , n_end:  1062
+Rank  362 number of clusters:  2
+For rank  134 n_start:  402 , n_end:  405
+Rank  134 number of clusters:  3
+For rank  595 n_start:  1526 , n_end:  1528
+Rank  595 number of clusters:  2
+For rank  342 n_start:  1020 , n_end:  1022
+Rank  342 number of clusters:  2
+For rank  570 n_start:  1476 , n_end:  1478
+Rank  570 number of clusters:  2
+For rank  687 n_start:  1710 , n_end:  1712
+Rank  687 number of clusters:  2
+For rank  816 n_start:  1968 , n_end:  1970
+Rank  816 number of clusters:  2
+For rank  3 n_start:  9 , n_end:  12
+Rank  3 number of clusters:  3
+For rank  480 n_start:  1296 , n_end:  1298
+Rank  480 number of clusters:  2
+For rank  750 n_start:  1836 , n_end:  1838
+Rank  750 number of clusters:  2
+For rank  464 n_start:  1264 , n_end:  1266
+Rank  464 number of clusters:  2
+For rank  617 n_start:  1570 , n_end:  1572
+Rank  617 number of clusters:  2
+For rank  162 n_start:  486 , n_end:  489
+Rank  162 number of clusters:  3
+For rank  404 n_start:  1144 , n_end:  1146
+Rank  404 number of clusters:  2
+For rank  436 n_start:  1208 , n_end:  1210
+Rank  436 number of clusters:  2
+For rank  367 n_start:  1070 , n_end:  1072
+Rank  367 number of clusters:  2
+For rank  152 n_start:  456 , n_end:  459
+Rank  152 number of clusters:  3
+For rank  601 n_start:  1538 , n_end:  1540
+Rank  601 number of clusters:  2
+For rank  344 n_start:  1024 , n_end:  1026
+Rank  344 number of clusters:  2
+For rank  573 n_start:  1482 , n_end:  1484
+Rank  573 number of clusters:  2
+For rank  698 n_start:  1732 , n_end:  1734
+Rank  698 number of clusters:  2
+For rank  817 n_start:  1970 , n_end:  1972
+Rank  817 number of clusters:  2
+For rank  18 n_start:  54 , n_end:  57
+Rank  18 number of clusters:  3
+For rank  627 n_start:  1590 , n_end:  1592
+Rank  627 number of clusters:  2
+For rank  407 n_start:  1150 , n_end:  1152
+Rank  407 number of clusters:  2
+For rank  602 n_start:  1540 , n_end:  1542
+Rank  602 number of clusters:  2
+For rank  345 n_start:  1026 , n_end:  1028
+Rank  345 number of clusters:  2
+For rank  545 n_start:  1426 , n_end:  1428
+Rank  545 number of clusters:  2
+For rank  672 n_start:  1680 , n_end:  1682
+Rank  672 number of clusters:  2
+For rank  831 n_start:  1998 , n_end:  2000
+Rank  831 number of clusters:  2
+For rank  20 n_start:  60 , n_end:  63
+Rank  20 number of clusters:  3
+For rank  481 n_start:  1298 , n_end:  1300
+Rank  481 number of clusters:  2
+For rank  762 n_start:  1860 , n_end:  1862
+Rank  762 number of clusters:  2
+For rank  479 n_start:  1294 , n_end:  1296
+Rank  479 number of clusters:  2
+For rank  169 n_start:  507 , n_end:  510
+Rank  169 number of clusters:  3
+For rank  440 n_start:  1216 , n_end:  1218
+Rank  440 number of clusters:  2
+For rank  374 n_start:  1084 , n_end:  1086
+Rank  374 number of clusters:  2
+For rank  158 n_start:  474 , n_end:  477
+Rank  158 number of clusters:  3
+For rank  607 n_start:  1550 , n_end:  1552
+Rank  607 number of clusters:  2
+For rank  350 n_start:  1036 , n_end:  1038
+Rank  350 number of clusters:  2
+For rank  546 n_start:  1428 , n_end:  1430
+Rank  546 number of clusters:  2
+For rank  673 n_start:  1682 , n_end:  1684
+Rank  673 number of clusters:  2
+For rank  800 n_start:  1936 , n_end:  1938
+Rank  800 number of clusters:  2
+For rank  26 n_start:  78 , n_end:  81
+Rank  26 number of clusters:  3
+For rank  482 n_start:  1300 , n_end:  1302
+Rank  482 number of clusters:  2
+For rank  764 n_start:  1864 , n_end:  1866
+Rank  764 number of clusters:  2
+For rank  448 n_start:  1232 , n_end:  1234
+Rank  448 number of clusters:  2
+For rank  634 n_start:  1604 , n_end:  1606
+Rank  634 number of clusters:  2
+For rank  170 n_start:  510 , n_end:  513
+Rank  170 number of clusters:  3
+For rank  414 n_start:  1164 , n_end:  1166
+Rank  414 number of clusters:  2
+For rank  416 n_start:  1168 , n_end:  1170
+Rank  416 number of clusters:  2
+For rank  377 n_start:  1090 , n_end:  1092
+Rank  377 number of clusters:  2
+For rank  128 n_start:  384 , n_end:  387
+Rank  128 number of clusters:  3
+For rank  576 n_start:  1488 , n_end:  1490
+Rank  576 number of clusters:  2
+For rank  320 n_start:  960 , n_end:  963
+Rank  320 number of clusters:  3
+For rank  547 n_start:  1430 , n_end:  1432
+Rank  547 number of clusters:  2
+For rank  674 n_start:  1684 , n_end:  1686
+Rank  674 number of clusters:  2
+For rank  801 n_start:  1938 , n_end:  1940
+Rank  801 number of clusters:  2
+For rank  31 n_start:  93 , n_end:  96
+Rank  31 number of clusters:  3
+For rank  483 n_start:  1302 , n_end:  1304
+Rank  483 number of clusters:  2
+For rank  736 n_start:  1808 , n_end:  1810
+Rank  736 number of clusters:  2
+For rank  449 n_start:  1234 , n_end:  1236
+Rank  449 number of clusters:  2
+For rank  608 n_start:  1552 , n_end:  1554
+Rank  608 number of clusters:  2
+For rank  172 n_start:  516 , n_end:  519
+Rank  172 number of clusters:  3
+For rank  384 n_start:  1104 , n_end:  1106
+Rank  384 number of clusters:  2
+For rank  417 n_start:  1170 , n_end:  1172
+Rank  417 number of clusters:  2
+For rank  381 n_start:  1098 , n_end:  1100
+Rank  381 number of clusters:  2
+For rank  129 n_start:  387 , n_end:  390
+Rank  129 number of clusters:  3
+For rank  578 n_start:  1492 , n_end:  1494
+Rank  578 number of clusters:  2
+For rank  321 n_start:  963 , n_end:  966
+Rank  321 number of clusters:  3
+For rank  548 n_start:  1432 , n_end:  1434
+Rank  548 number of clusters:  2
+For rank  675 n_start:  1686 , n_end:  1688
+Rank  675 number of clusters:  2
+For rank  802 n_start:  1940 , n_end:  1942
+Rank  802 number of clusters:  2
+For rank  2 n_start:  6 , n_end:  9
+Rank  2 number of clusters:  3
+For rank  484 n_start:  1304 , n_end:  1306
+Rank  484 number of clusters:  2
+For rank  737 n_start:  1810 , n_end:  1812
+Rank  737 number of clusters:  2
+For rank  450 n_start:  1236 , n_end:  1238
+Rank  450 number of clusters:  2
+For rank  609 n_start:  1554 , n_end:  1556
+Rank  609 number of clusters:  2
+For rank  176 n_start:  528 , n_end:  531
+Rank  176 number of clusters:  3
+For rank  385 n_start:  1106 , n_end:  1108
+Rank  385 number of clusters:  2
+For rank  418 n_start:  1172 , n_end:  1174
+Rank  418 number of clusters:  2
+For rank  382 n_start:  1100 , n_end:  1102
+Rank  382 number of clusters:  2
+For rank  130 n_start:  390 , n_end:  393
+Rank  130 number of clusters:  3
+For rank  579 n_start:  1494 , n_end:  1496
+Rank  579 number of clusters:  2
+For rank  322 n_start:  966 , n_end:  969
+Rank  322 number of clusters:  3
+For rank  549 n_start:  1434 , n_end:  1436
+Rank  549 number of clusters:  2
+For rank  676 n_start:  1688 , n_end:  1690
+Rank  676 number of clusters:  2
+For rank  803 n_start:  1942 , n_end:  1944
+Rank  803 number of clusters:  2
+For rank  4 n_start:  12 , n_end:  15
+Rank  4 number of clusters:  3
+For rank  485 n_start:  1306 , n_end:  1308
+Rank  485 number of clusters:  2
+For rank  738 n_start:  1812 , n_end:  1814
+Rank  738 number of clusters:  2
+For rank  451 n_start:  1238 , n_end:  1240
+Rank  451 number of clusters:  2
+For rank  610 n_start:  1556 , n_end:  1558
+Rank  610 number of clusters:  2
+For rank  189 n_start:  567 , n_end:  570
+Rank  189 number of clusters:  3
+For rank  386 n_start:  1108 , n_end:  1110
+Rank  386 number of clusters:  2
+For rank  419 n_start:  1174 , n_end:  1176
+Rank  419 number of clusters:  2
+For rank  352 n_start:  1040 , n_end:  1042
+Rank  352 number of clusters:  2
+For rank  131 n_start:  393 , n_end:  396
+Rank  131 number of clusters:  3
+For rank  580 n_start:  1496 , n_end:  1498
+Rank  580 number of clusters:  2
+For rank  323 n_start:  969 , n_end:  972
+Rank  323 number of clusters:  3
+For rank  550 n_start:  1436 , n_end:  1438
+Rank  550 number of clusters:  2
+For rank  677 n_start:  1690 , n_end:  1692
+Rank  677 number of clusters:  2
+For rank  804 n_start:  1944 , n_end:  1946
+Rank  804 number of clusters:  2
+For rank  5 n_start:  15 , n_end:  18
+Rank  5 number of clusters:  3
+For rank  486 n_start:  1308 , n_end:  1310
+Rank  486 number of clusters:  2
+For rank  739 n_start:  1814 , n_end:  1816
+Rank  739 number of clusters:  2
+For rank  452 n_start:  1240 , n_end:  1242
+Rank  452 number of clusters:  2
+For rank  611 n_start:  1558 , n_end:  1560
+Rank  611 number of clusters:  2
+For rank  191 n_start:  573 , n_end:  576
+Rank  191 number of clusters:  3
+For rank  387 n_start:  1110 , n_end:  1112
+Rank  387 number of clusters:  2
+For rank  421 n_start:  1178 , n_end:  1180
+Rank  421 number of clusters:  2
+For rank  353 n_start:  1042 , n_end:  1044
+Rank  353 number of clusters:  2
+For rank  132 n_start:  396 , n_end:  399
+Rank  132 number of clusters:  3
+For rank  581 n_start:  1498 , n_end:  1500
+Rank  581 number of clusters:  2
+For rank  324 n_start:  972 , n_end:  975
+Rank  324 number of clusters:  3
+For rank  551 n_start:  1438 , n_end:  1440
+Rank  551 number of clusters:  2
+For rank  678 n_start:  1692 , n_end:  1694
+Rank  678 number of clusters:  2
+For rank  805 n_start:  1946 , n_end:  1948
+Rank  805 number of clusters:  2
+For rank  6 n_start:  18 , n_end:  21
+Rank  6 number of clusters:  3
+For rank  489 n_start:  1314 , n_end:  1316
+Rank  489 number of clusters:  2
+For rank  740 n_start:  1816 , n_end:  1818
+Rank  740 number of clusters:  2
+For rank  453 n_start:  1242 , n_end:  1244
+Rank  453 number of clusters:  2
+For rank  612 n_start:  1560 , n_end:  1562
+Rank  612 number of clusters:  2
+For rank  161 n_start:  483 , n_end:  486
+Rank  161 number of clusters:  3
+For rank  388 n_start:  1112 , n_end:  1114
+Rank  388 number of clusters:  2
+For rank  422 n_start:  1180 , n_end:  1182
+Rank  422 number of clusters:  2
+For rank  354 n_start:  1044 , n_end:  1046
+Rank  354 number of clusters:  2
+For rank  133 n_start:  399 , n_end:  402
+Rank  133 number of clusters:  3
+For rank  582 n_start:  1500 , n_end:  1502
+Rank  582 number of clusters:  2
+For rank  325 n_start:  975 , n_end:  978
+Rank  325 number of clusters:  3
+For rank  552 n_start:  1440 , n_end:  1442
+Rank  552 number of clusters:  2
+For rank  679 n_start:  1694 , n_end:  1696
+Rank  679 number of clusters:  2
+For rank  806 n_start:  1948 , n_end:  1950
+Rank  806 number of clusters:  2
+For rank  7 n_start:  21 , n_end:  24
+Rank  7 number of clusters:  3
+For rank  490 n_start:  1316 , n_end:  1318
+Rank  490 number of clusters:  2
+For rank  741 n_start:  1818 , n_end:  1820
+Rank  741 number of clusters:  2
+For rank  454 n_start:  1244 , n_end:  1246
+Rank  454 number of clusters:  2
+For rank  613 n_start:  1562 , n_end:  1564
+Rank  613 number of clusters:  2
+For rank  163 n_start:  489 , n_end:  492
+Rank  163 number of clusters:  3
+For rank  389 n_start:  1114 , n_end:  1116
+Rank  389 number of clusters:  2
+For rank  423 n_start:  1182 , n_end:  1184
+Rank  423 number of clusters:  2
+For rank  355 n_start:  1046 , n_end:  1048
+Rank  355 number of clusters:  2
+For rank  135 n_start:  405 , n_end:  408
+Rank  135 number of clusters:  3
+For rank  583 n_start:  1502 , n_end:  1504
+Rank  583 number of clusters:  2
+For rank  326 n_start:  978 , n_end:  981
+Rank  326 number of clusters:  3
+For rank  553 n_start:  1442 , n_end:  1444
+Rank  553 number of clusters:  2
+For rank  680 n_start:  1696 , n_end:  1698
+Rank  680 number of clusters:  2
+For rank  807 n_start:  1950 , n_end:  1952
+Rank  807 number of clusters:  2
+For rank  8 n_start:  24 , n_end:  27
+Rank  8 number of clusters:  3
+For rank  491 n_start:  1318 , n_end:  1320
+Rank  491 number of clusters:  2
+For rank  742 n_start:  1820 , n_end:  1822
+Rank  742 number of clusters:  2
+For rank  455 n_start:  1246 , n_end:  1248
+Rank  455 number of clusters:  2
+For rank  614 n_start:  1564 , n_end:  1566
+Rank  614 number of clusters:  2
+For rank  164 n_start:  492 , n_end:  495
+Rank  164 number of clusters:  3
+For rank  390 n_start:  1116 , n_end:  1118
+Rank  390 number of clusters:  2
+For rank  424 n_start:  1184 , n_end:  1186
+Rank  424 number of clusters:  2
+For rank  356 n_start:  1048 , n_end:  1050
+Rank  356 number of clusters:  2
+For rank  101 n_start:  303 , n_end:  306
+Rank  101 number of clusters:  3
+For rank  136 n_start:  408 , n_end:  411
+Rank  136 number of clusters:  3
+For rank  584 n_start:  1504 , n_end:  1506
+Rank  584 number of clusters:  2
+For rank  327 n_start:  981 , n_end:  984
+Rank  327 number of clusters:  3
+For rank  554 n_start:  1444 , n_end:  1446
+Rank  554 number of clusters:  2
+For rank  681 n_start:  1698 , n_end:  1700
+Rank  681 number of clusters:  2
+For rank  808 n_start:  1952 , n_end:  1954
+Rank  808 number of clusters:  2
+For rank  9 n_start:  27 , n_end:  30
+Rank  9 number of clusters:  3
+For rank  492 n_start:  1320 , n_end:  1322
+Rank  492 number of clusters:  2
+For rank  743 n_start:  1822 , n_end:  1824
+Rank  743 number of clusters:  2
+For rank  456 n_start:  1248 , n_end:  1250
+Rank  456 number of clusters:  2
+For rank  615 n_start:  1566 , n_end:  1568
+Rank  615 number of clusters:  2
+For rank  165 n_start:  495 , n_end:  498
+Rank  165 number of clusters:  3
+For rank  391 n_start:  1118 , n_end:  1120
+Rank  391 number of clusters:  2
+For rank  425 n_start:  1186 , n_end:  1188
+Rank  425 number of clusters:  2
+For rank  357 n_start:  1050 , n_end:  1052
+Rank  357 number of clusters:  2
+For rank  103 n_start:  309 , n_end:  312
+Rank  103 number of clusters:  3
+For rank  137 n_start:  411 , n_end:  414
+Rank  137 number of clusters:  3
+For rank  585 n_start:  1506 , n_end:  1508
+Rank  585 number of clusters:  2
+For rank  328 n_start:  984 , n_end:  987
+Rank  328 number of clusters:  3
+For rank  555 n_start:  1446 , n_end:  1448
+Rank  555 number of clusters:  2
+For rank  682 n_start:  1700 , n_end:  1702
+Rank  682 number of clusters:  2
+For rank  809 n_start:  1954 , n_end:  1956
+Rank  809 number of clusters:  2
+For rank  10 n_start:  30 , n_end:  33
+Rank  10 number of clusters:  3
+For rank  494 n_start:  1324 , n_end:  1326
+Rank  494 number of clusters:  2
+For rank  744 n_start:  1824 , n_end:  1826
+Rank  744 number of clusters:  2
+For rank  458 n_start:  1252 , n_end:  1254
+Rank  458 number of clusters:  2
+For rank  616 n_start:  1568 , n_end:  1570
+Rank  616 number of clusters:  2
+For rank  166 n_start:  498 , n_end:  501
+Rank  166 number of clusters:  3
+For rank  392 n_start:  1120 , n_end:  1122
+Rank  392 number of clusters:  2
+For rank  426 n_start:  1188 , n_end:  1190
+Rank  426 number of clusters:  2
+For rank  358 n_start:  1052 , n_end:  1054
+Rank  358 number of clusters:  2
+For rank  138 n_start:  414 , n_end:  417
+Rank  138 number of clusters:  3
+For rank  586 n_start:  1508 , n_end:  1510
+Rank  586 number of clusters:  2
+For rank  329 n_start:  987 , n_end:  990
+Rank  329 number of clusters:  3
+For rank  556 n_start:  1448 , n_end:  1450
+Rank  556 number of clusters:  2
+For rank  683 n_start:  1702 , n_end:  1704
+Rank  683 number of clusters:  2
+For rank  810 n_start:  1956 , n_end:  1958
+Rank  810 number of clusters:  2
+For rank  11 n_start:  33 , n_end:  36
+Rank  11 number of clusters:  3
+For rank  495 n_start:  1326 , n_end:  1328
+Rank  495 number of clusters:  2
+For rank  745 n_start:  1826 , n_end:  1828
+Rank  745 number of clusters:  2
+For rank  460 n_start:  1256 , n_end:  1258
+Rank  460 number of clusters:  2
+For rank  618 n_start:  1572 , n_end:  1574
+Rank  618 number of clusters:  2
+For rank  167 n_start:  501 , n_end:  504
+Rank  167 number of clusters:  3
+For rank  393 n_start:  1122 , n_end:  1124
+Rank  393 number of clusters:  2
+For rank  427 n_start:  1190 , n_end:  1192
+Rank  427 number of clusters:  2
+For rank  359 n_start:  1054 , n_end:  1056
+Rank  359 number of clusters:  2
+For rank  113 n_start:  339 , n_end:  342
+Rank  113 number of clusters:  3
+For rank  139 n_start:  417 , n_end:  420
+Rank  139 number of clusters:  3
+For rank  587 n_start:  1510 , n_end:  1512
+Rank  587 number of clusters:  2
+For rank  330 n_start:  990 , n_end:  993
+Rank  330 number of clusters:  3
+For rank  557 n_start:  1450 , n_end:  1452
+Rank  557 number of clusters:  2
+For rank  684 n_start:  1704 , n_end:  1706
+Rank  684 number of clusters:  2
+For rank  811 n_start:  1958 , n_end:  1960
+Rank  811 number of clusters:  2
+For rank  12 n_start:  36 , n_end:  39
+Rank  12 number of clusters:  3
+For rank  496 n_start:  1328 , n_end:  1330
+Rank  496 number of clusters:  2
+For rank  746 n_start:  1828 , n_end:  1830
+Rank  746 number of clusters:  2
+For rank  461 n_start:  1258 , n_end:  1260
+Rank  461 number of clusters:  2
+For rank  619 n_start:  1574 , n_end:  1576
+Rank  619 number of clusters:  2
+For rank  168 n_start:  504 , n_end:  507
+Rank  168 number of clusters:  3
+For rank  394 n_start:  1124 , n_end:  1126
+Rank  394 number of clusters:  2
+For rank  428 n_start:  1192 , n_end:  1194
+Rank  428 number of clusters:  2
+For rank  360 n_start:  1056 , n_end:  1058
+Rank  360 number of clusters:  2
+For rank  117 n_start:  351 , n_end:  354
+Rank  117 number of clusters:  3
+For rank  140 n_start:  420 , n_end:  423
+Rank  140 number of clusters:  3
+For rank  588 n_start:  1512 , n_end:  1514
+Rank  588 number of clusters:  2
+For rank  331 n_start:  993 , n_end:  996
+Rank  331 number of clusters:  3
+For rank  558 n_start:  1452 , n_end:  1454
+Rank  558 number of clusters:  2
+For rank  686 n_start:  1708 , n_end:  1710
+Rank  686 number of clusters:  2
+For rank  813 n_start:  1962 , n_end:  1964
+Rank  813 number of clusters:  2
+For rank  13 n_start:  39 , n_end:  42
+Rank  13 number of clusters:  3
+For rank  498 n_start:  1332 , n_end:  1334
+Rank  498 number of clusters:  2
+For rank  747 n_start:  1830 , n_end:  1832
+Rank  747 number of clusters:  2
+For rank  779 n_start:  1894 , n_end:  1896
+Rank  779 number of clusters:  2
+For rank  462 n_start:  1260 , n_end:  1262
+Rank  462 number of clusters:  2
+For rank  620 n_start:  1576 , n_end:  1578
+Rank  620 number of clusters:  2
+For rank  171 n_start:  513 , n_end:  516
+Rank  171 number of clusters:  3
+For rank  395 n_start:  1126 , n_end:  1128
+Rank  395 number of clusters:  2
+For rank  430 n_start:  1196 , n_end:  1198
+Rank  430 number of clusters:  2
+For rank  361 n_start:  1058 , n_end:  1060
+Rank  361 number of clusters:  2
+For rank  104 n_start:  312 , n_end:  315
+Rank  104 number of clusters:  3
+For rank  141 n_start:  423 , n_end:  426
+Rank  141 number of clusters:  3
+For rank  589 n_start:  1514 , n_end:  1516
+Rank  589 number of clusters:  2
+For rank  332 n_start:  996 , n_end:  999
+Rank  332 number of clusters:  3
+For rank  559 n_start:  1454 , n_end:  1456
+Rank  559 number of clusters:  2
+For rank  688 n_start:  1712 , n_end:  1714
+Rank  688 number of clusters:  2
+For rank  814 n_start:  1964 , n_end:  1966
+Rank  814 number of clusters:  2
+For rank  14 n_start:  42 , n_end:  45
+Rank  14 number of clusters:  3
+For rank  501 n_start:  1338 , n_end:  1340
+Rank  501 number of clusters:  2
+For rank  749 n_start:  1834 , n_end:  1836
+Rank  749 number of clusters:  2
+For rank  780 n_start:  1896 , n_end:  1898
+Rank  780 number of clusters:  2
+For rank  463 n_start:  1262 , n_end:  1264
+Rank  463 number of clusters:  2
+For rank  45 n_start:  135 , n_end:  138
+Rank  45 number of clusters:  3
+For rank  621 n_start:  1578 , n_end:  1580
+Rank  621 number of clusters:  2
+For rank  173 n_start:  519 , n_end:  522
+Rank  173 number of clusters:  3
+For rank  396 n_start:  1128 , n_end:  1130
+Rank  396 number of clusters:  2
+For rank  431 n_start:  1198 , n_end:  1200
+Rank  431 number of clusters:  2
+For rank  363 n_start:  1062 , n_end:  1064
+Rank  363 number of clusters:  2
+For rank  109 n_start:  327 , n_end:  330
+Rank  109 number of clusters:  3
+For rank  142 n_start:  426 , n_end:  429
+Rank  142 number of clusters:  3
+For rank  590 n_start:  1516 , n_end:  1518
+Rank  590 number of clusters:  2
+For rank  333 n_start:  999 , n_end:  1002
+Rank  333 number of clusters:  3
+For rank  560 n_start:  1456 , n_end:  1458
+Rank  560 number of clusters:  2
+For rank  689 n_start:  1714 , n_end:  1716
+Rank  689 number of clusters:  2
+For rank  15 n_start:  45 , n_end:  48
+Rank  15 number of clusters:  3
+For rank  502 n_start:  1340 , n_end:  1342
+Rank  502 number of clusters:  2
+For rank  233 n_start:  699 , n_end:  702
+Rank  233 number of clusters:  3
+For rank  751 n_start:  1838 , n_end:  1840
+Rank  751 number of clusters:  2
+For rank  785 n_start:  1906 , n_end:  1908
+Rank  785 number of clusters:  2
+For rank  465 n_start:  1266 , n_end:  1268
+Rank  465 number of clusters:  2
+For rank  654 n_start:  1644 , n_end:  1646
+Rank  654 number of clusters:  2
+For rank  39 n_start:  117 , n_end:  120
+Rank  39 number of clusters:  3
+For rank  622 n_start:  1580 , n_end:  1582
+Rank  622 number of clusters:  2
+For rank  174 n_start:  522 , n_end:  525
+Rank  174 number of clusters:  3
+For rank  397 n_start:  1130 , n_end:  1132
+Rank  397 number of clusters:  2
+For rank  432 n_start:  1200 , n_end:  1202
+Rank  432 number of clusters:  2
+For rank  364 n_start:  1064 , n_end:  1066
+Rank  364 number of clusters:  2
+For rank  110 n_start:  330 , n_end:  333
+Rank  110 number of clusters:  3
+For rank  143 n_start:  429 , n_end:  432
+Rank  143 number of clusters:  3
+For rank  593 n_start:  1522 , n_end:  1524
+Rank  593 number of clusters:  2
+For rank  334 n_start:  1002 , n_end:  1005
+Rank  334 number of clusters:  3
+For rank  561 n_start:  1458 , n_end:  1460
+Rank  561 number of clusters:  2
+For rank  815 n_start:  1966 , n_end:  1968
+Rank  815 number of clusters:  2
+For rank  16 n_start:  48 , n_end:  51
+Rank  16 number of clusters:  3
+For rank  504 n_start:  1344 , n_end:  1346
+Rank  504 number of clusters:  2
+For rank  237 n_start:  711 , n_end:  714
+Rank  237 number of clusters:  3
+For rank  752 n_start:  1840 , n_end:  1842
+Rank  752 number of clusters:  2
+For rank  788 n_start:  1912 , n_end:  1914
+Rank  788 number of clusters:  2
+For rank  466 n_start:  1268 , n_end:  1270
+Rank  466 number of clusters:  2
+For rank  640 n_start:  1616 , n_end:  1618
+Rank  640 number of clusters:  2
+For rank  42 n_start:  126 , n_end:  129
+Rank  42 number of clusters:  3
+For rank  623 n_start:  1582 , n_end:  1584
+Rank  623 number of clusters:  2
+For rank  175 n_start:  525 , n_end:  528
+Rank  175 number of clusters:  3
+For rank  398 n_start:  1132 , n_end:  1134
+Rank  398 number of clusters:  2
+For rank  433 n_start:  1202 , n_end:  1204
+Rank  433 number of clusters:  2
+For rank  365 n_start:  1066 , n_end:  1068
+Rank  365 number of clusters:  2
+For rank  112 n_start:  336 , n_end:  339
+Rank  112 number of clusters:  3
+For rank  144 n_start:  432 , n_end:  435
+Rank  144 number of clusters:  3
+For rank  594 n_start:  1524 , n_end:  1526
+Rank  594 number of clusters:  2
+For rank  335 n_start:  1005 , n_end:  1008
+Rank  335 number of clusters:  3
+For rank  562 n_start:  1460 , n_end:  1462
+Rank  562 number of clusters:  2
+For rank  690 n_start:  1716 , n_end:  1718
+Rank  690 number of clusters:  2
+For rank  818 n_start:  1972 , n_end:  1974
+Rank  818 number of clusters:  2
+For rank  17 n_start:  51 , n_end:  54
+Rank  17 number of clusters:  3
+For rank  227 n_start:  681 , n_end:  684
+Rank  227 number of clusters:  3
+For rank  753 n_start:  1842 , n_end:  1844
+Rank  753 number of clusters:  2
+For rank  793 n_start:  1922 , n_end:  1924
+Rank  793 number of clusters:  2
+For rank  467 n_start:  1270 , n_end:  1272
+Rank  467 number of clusters:  2
+For rank  646 n_start:  1628 , n_end:  1630
+Rank  646 number of clusters:  2
+For rank  293 n_start:  879 , n_end:  882
+Rank  293 number of clusters:  3
+For rank  44 n_start:  132 , n_end:  135
+Rank  44 number of clusters:  3
+For rank  624 n_start:  1584 , n_end:  1586
+Rank  624 number of clusters:  2
+For rank  533 n_start:  1402 , n_end:  1404
+Rank  533 number of clusters:  2
+For rank  177 n_start:  531 , n_end:  534
+Rank  177 number of clusters:  3
+For rank  399 n_start:  1134 , n_end:  1136
+Rank  399 number of clusters:  2
+For rank  722 n_start:  1780 , n_end:  1782
+Rank  722 number of clusters:  2
+For rank  434 n_start:  1204 , n_end:  1206
+Rank  434 number of clusters:  2
+For rank  366 n_start:  1068 , n_end:  1070
+Rank  366 number of clusters:  2
+For rank  115 n_start:  345 , n_end:  348
+Rank  115 number of clusters:  3
+For rank  145 n_start:  435 , n_end:  438
+Rank  145 number of clusters:  3
+For rank  596 n_start:  1528 , n_end:  1530
+Rank  596 number of clusters:  2
+For rank  336 n_start:  1008 , n_end:  1010
+Rank  336 number of clusters:  2
+For rank  563 n_start:  1462 , n_end:  1464
+Rank  563 number of clusters:  2
+For rank  691 n_start:  1718 , n_end:  1720
+Rank  691 number of clusters:  2
+For rank  819 n_start:  1974 , n_end:  1976
+Rank  819 number of clusters:  2
+For rank  19 n_start:  57 , n_end:  60
+Rank  19 number of clusters:  3
+For rank  505 n_start:  1346 , n_end:  1348
+Rank  505 number of clusters:  2
+For rank  228 n_start:  684 , n_end:  687
+Rank  228 number of clusters:  3
+For rank  754 n_start:  1844 , n_end:  1846
+Rank  754 number of clusters:  2
+For rank  196 n_start:  588 , n_end:  591
+Rank  196 number of clusters:  3
+For rank  795 n_start:  1926 , n_end:  1928
+Rank  795 number of clusters:  2
+For rank  468 n_start:  1272 , n_end:  1274
+Rank  468 number of clusters:  2
+For rank  648 n_start:  1632 , n_end:  1634
+Rank  648 number of clusters:  2
+For rank  301 n_start:  903 , n_end:  906
+Rank  301 number of clusters:  3
+For rank  55 n_start:  165 , n_end:  168
+Rank  55 number of clusters:  3
+For rank  625 n_start:  1586 , n_end:  1588
+Rank  625 number of clusters:  2
+For rank  512 n_start:  1360 , n_end:  1362
+Rank  512 number of clusters:  2
+For rank  178 n_start:  534 , n_end:  537
+Rank  178 number of clusters:  3
+For rank  400 n_start:  1136 , n_end:  1138
+Rank  400 number of clusters:  2
+For rank  726 n_start:  1788 , n_end:  1790
+Rank  726 number of clusters:  2
+For rank  435 n_start:  1206 , n_end:  1208
+Rank  435 number of clusters:  2
+For rank  368 n_start:  1072 , n_end:  1074
+Rank  368 number of clusters:  2
+For rank  119 n_start:  357 , n_end:  360
+Rank  119 number of clusters:  3
+For rank  146 n_start:  438 , n_end:  441
+Rank  146 number of clusters:  3
+For rank  597 n_start:  1530 , n_end:  1532
+Rank  597 number of clusters:  2
+For rank  337 n_start:  1010 , n_end:  1012
+Rank  337 number of clusters:  2
+For rank  564 n_start:  1464 , n_end:  1466
+Rank  564 number of clusters:  2
+For rank  692 n_start:  1720 , n_end:  1722
+Rank  692 number of clusters:  2
+For rank  820 n_start:  1976 , n_end:  1978
+Rank  820 number of clusters:  2
+For rank  21 n_start:  63 , n_end:  66
+Rank  21 number of clusters:  3
+For rank  506 n_start:  1348 , n_end:  1350
+Rank  506 number of clusters:  2
+For rank  230 n_start:  690 , n_end:  693
+Rank  230 number of clusters:  3
+For rank  755 n_start:  1846 , n_end:  1848
+Rank  755 number of clusters:  2
+For rank  192 n_start:  576 , n_end:  579
+Rank  192 number of clusters:  3
+For rank  796 n_start:  1928 , n_end:  1930
+Rank  796 number of clusters:  2
+For rank  469 n_start:  1274 , n_end:  1276
+Rank  469 number of clusters:  2
+For rank  649 n_start:  1634 , n_end:  1636
+Rank  649 number of clusters:  2
+For rank  304 n_start:  912 , n_end:  915
+Rank  304 number of clusters:  3
+For rank  58 n_start:  174 , n_end:  177
+Rank  58 number of clusters:  3
+For rank  626 n_start:  1588 , n_end:  1590
+Rank  626 number of clusters:  2
+For rank  179 n_start:  537 , n_end:  540
+Rank  179 number of clusters:  3
+For rank  401 n_start:  1138 , n_end:  1140
+Rank  401 number of clusters:  2
+For rank  77 n_start:  231 , n_end:  234
+Rank  77 number of clusters:  3
+For rank  369 n_start:  1074 , n_end:  1076
+Rank  369 number of clusters:  2
+For rank  121 n_start:  363 , n_end:  366
+Rank  121 number of clusters:  3
+For rank  598 n_start:  1532 , n_end:  1534
+Rank  598 number of clusters:  2
+For rank  338 n_start:  1012 , n_end:  1014
+Rank  338 number of clusters:  2
+For rank  565 n_start:  1466 , n_end:  1468
+Rank  565 number of clusters:  2
+For rank  693 n_start:  1722 , n_end:  1724
+Rank  693 number of clusters:  2
+For rank  821 n_start:  1978 , n_end:  1980
+Rank  821 number of clusters:  2
+For rank  22 n_start:  66 , n_end:  69
+Rank  22 number of clusters:  3
+For rank  507 n_start:  1350 , n_end:  1352
+Rank  507 number of clusters:  2
+For rank  231 n_start:  693 , n_end:  696
+Rank  231 number of clusters:  3
+For rank  756 n_start:  1848 , n_end:  1850
+Rank  756 number of clusters:  2
+For rank  199 n_start:  597 , n_end:  600
+Rank  199 number of clusters:  3
+For rank  798 n_start:  1932 , n_end:  1934
+Rank  798 number of clusters:  2
+For rank  470 n_start:  1276 , n_end:  1278
+Rank  470 number of clusters:  2
+For rank  650 n_start:  1636 , n_end:  1638
+Rank  650 number of clusters:  2
+For rank  306 n_start:  918 , n_end:  921
+Rank  306 number of clusters:  3
+For rank  59 n_start:  177 , n_end:  180
+Rank  59 number of clusters:  3
+For rank  628 n_start:  1592 , n_end:  1594
+Rank  628 number of clusters:  2
+For rank  521 n_start:  1378 , n_end:  1380
+Rank  521 number of clusters:  2
+For rank  180 n_start:  540 , n_end:  543
+Rank  180 number of clusters:  3
+For rank  402 n_start:  1140 , n_end:  1142
+Rank  402 number of clusters:  2
+For rank  730 n_start:  1796 , n_end:  1798
+Rank  730 number of clusters:  2
+For rank  64 n_start:  192 , n_end:  195
+Rank  64 number of clusters:  3
+For rank  437 n_start:  1210 , n_end:  1212
+Rank  437 number of clusters:  2
+For rank  370 n_start:  1076 , n_end:  1078
+Rank  370 number of clusters:  2
+For rank  96 n_start:  288 , n_end:  291
+Rank  96 number of clusters:  3
+For rank  147 n_start:  441 , n_end:  444
+Rank  147 number of clusters:  3
+For rank  599 n_start:  1534 , n_end:  1536
+Rank  599 number of clusters:  2
+For rank  339 n_start:  1014 , n_end:  1016
+Rank  339 number of clusters:  2
+For rank  566 n_start:  1468 , n_end:  1470
+Rank  566 number of clusters:  2
+For rank  694 n_start:  1724 , n_end:  1726
+Rank  694 number of clusters:  2
+For rank  822 n_start:  1980 , n_end:  1982
+Rank  822 number of clusters:  2
+For rank  23 n_start:  69 , n_end:  72
+Rank  23 number of clusters:  3
+For rank  508 n_start:  1352 , n_end:  1354
+Rank  508 number of clusters:  2
+For rank  232 n_start:  696 , n_end:  699
+Rank  232 number of clusters:  3
+For rank  757 n_start:  1850 , n_end:  1852
+Rank  757 number of clusters:  2
+For rank  202 n_start:  606 , n_end:  609
+Rank  202 number of clusters:  3
+For rank  768 n_start:  1872 , n_end:  1874
+Rank  768 number of clusters:  2
+For rank  471 n_start:  1278 , n_end:  1280
+Rank  471 number of clusters:  2
+For rank  653 n_start:  1642 , n_end:  1644
+Rank  653 number of clusters:  2
+For rank  308 n_start:  924 , n_end:  927
+Rank  308 number of clusters:  3
+For rank  32 n_start:  96 , n_end:  99
+Rank  32 number of clusters:  3
+For rank  629 n_start:  1594 , n_end:  1596
+Rank  629 number of clusters:  2
+For rank  525 n_start:  1386 , n_end:  1388
+Rank  525 number of clusters:  2
+For rank  181 n_start:  543 , n_end:  546
+Rank  181 number of clusters:  3
+For rank  403 n_start:  1142 , n_end:  1144
+Rank  403 number of clusters:  2
+For rank  704 n_start:  1744 , n_end:  1746
+Rank  704 number of clusters:  2
+For rank  438 n_start:  1212 , n_end:  1214
+Rank  438 number of clusters:  2
+For rank  371 n_start:  1078 , n_end:  1080
+Rank  371 number of clusters:  2
+For rank  97 n_start:  291 , n_end:  294
+Rank  97 number of clusters:  3
+For rank  148 n_start:  444 , n_end:  447
+Rank  148 number of clusters:  3
+For rank  600 n_start:  1536 , n_end:  1538
+Rank  600 number of clusters:  2
+For rank  340 n_start:  1016 , n_end:  1018
+Rank  340 number of clusters:  2
+For rank  695 n_start:  1726 , n_end:  1728
+Rank  695 number of clusters:  2
+For rank  823 n_start:  1982 , n_end:  1984
+Rank  823 number of clusters:  2
+For rank  24 n_start:  72 , n_end:  75
+Rank  24 number of clusters:  3
+For rank  509 n_start:  1354 , n_end:  1356
+Rank  509 number of clusters:  2
+For rank  234 n_start:  702 , n_end:  705
+Rank  234 number of clusters:  3
+For rank  758 n_start:  1852 , n_end:  1854
+Rank  758 number of clusters:  2
+For rank  206 n_start:  618 , n_end:  621
+Rank  206 number of clusters:  3
+For rank  769 n_start:  1874 , n_end:  1876
+Rank  769 number of clusters:  2
+For rank  663 n_start:  1662 , n_end:  1664
+Rank  663 number of clusters:  2
+For rank  310 n_start:  930 , n_end:  933
+Rank  310 number of clusters:  3
+For rank  33 n_start:  99 , n_end:  102
+Rank  33 number of clusters:  3
+For rank  630 n_start:  1596 , n_end:  1598
+Rank  630 number of clusters:  2
+For rank  543 n_start:  1422 , n_end:  1424
+Rank  543 number of clusters:  2
+For rank  182 n_start:  546 , n_end:  549
+Rank  182 number of clusters:  3
+For rank  405 n_start:  1146 , n_end:  1148
+Rank  405 number of clusters:  2
+For rank  713 n_start:  1762 , n_end:  1764
+Rank  713 number of clusters:  2
+For rank  65 n_start:  195 , n_end:  198
+Rank  65 number of clusters:  3
+For rank  439 n_start:  1214 , n_end:  1216
+Rank  439 number of clusters:  2
+For rank  372 n_start:  1080 , n_end:  1082
+Rank  372 number of clusters:  2
+For rank  98 n_start:  294 , n_end:  297
+Rank  98 number of clusters:  3
+For rank  149 n_start:  447 , n_end:  450
+Rank  149 number of clusters:  3
+For rank  603 n_start:  1542 , n_end:  1544
+Rank  603 number of clusters:  2
+For rank  341 n_start:  1018 , n_end:  1020
+Rank  341 number of clusters:  2
+For rank  567 n_start:  1470 , n_end:  1472
+Rank  567 number of clusters:  2
+For rank  696 n_start:  1728 , n_end:  1730
+Rank  696 number of clusters:  2
+For rank  824 n_start:  1984 , n_end:  1986
+Rank  824 number of clusters:  2
+For rank  25 n_start:  75 , n_end:  78
+Rank  25 number of clusters:  3
+For rank  510 n_start:  1356 , n_end:  1358
+Rank  510 number of clusters:  2
+For rank  286 n_start:  858 , n_end:  861
+Rank  286 number of clusters:  3
+For rank  238 n_start:  714 , n_end:  717
+Rank  238 number of clusters:  3
+For rank  759 n_start:  1854 , n_end:  1856
+Rank  759 number of clusters:  2
+For rank  213 n_start:  639 , n_end:  642
+Rank  213 number of clusters:  3
+For rank  770 n_start:  1876 , n_end:  1878
+Rank  770 number of clusters:  2
+For rank  472 n_start:  1280 , n_end:  1282
+Rank  472 number of clusters:  2
+For rank  665 n_start:  1666 , n_end:  1668
+Rank  665 number of clusters:  2
+For rank  311 n_start:  933 , n_end:  936
+Rank  311 number of clusters:  3
+For rank  34 n_start:  102 , n_end:  105
+Rank  34 number of clusters:  3
+For rank  631 n_start:  1598 , n_end:  1600
+Rank  631 number of clusters:  2
+For rank  516 n_start:  1368 , n_end:  1370
+Rank  516 number of clusters:  2
+For rank  183 n_start:  549 , n_end:  552
+Rank  183 number of clusters:  3
+For rank  406 n_start:  1148 , n_end:  1150
+Rank  406 number of clusters:  2
+For rank  718 n_start:  1772 , n_end:  1774
+Rank  718 number of clusters:  2
+For rank  66 n_start:  198 , n_end:  201
+Rank  66 number of clusters:  3
+For rank  441 n_start:  1218 , n_end:  1220
+Rank  441 number of clusters:  2
+For rank  373 n_start:  1082 , n_end:  1084
+Rank  373 number of clusters:  2
+For rank  99 n_start:  297 , n_end:  300
+Rank  99 number of clusters:  3
+For rank  150 n_start:  450 , n_end:  453
+Rank  150 number of clusters:  3
+For rank  604 n_start:  1544 , n_end:  1546
+Rank  604 number of clusters:  2
+For rank  343 n_start:  1022 , n_end:  1024
+Rank  343 number of clusters:  2
+For rank  568 n_start:  1472 , n_end:  1474
+Rank  568 number of clusters:  2
+For rank  697 n_start:  1730 , n_end:  1732
+Rank  697 number of clusters:  2
+For rank  825 n_start:  1986 , n_end:  1988
+Rank  825 number of clusters:  2
+For rank  27 n_start:  81 , n_end:  84
+Rank  27 number of clusters:  3
+For rank  511 n_start:  1358 , n_end:  1360
+Rank  511 number of clusters:  2
+For rank  256 n_start:  768 , n_end:  771
+Rank  256 number of clusters:  3
+For rank  240 n_start:  720 , n_end:  723
+Rank  240 number of clusters:  3
+For rank  760 n_start:  1856 , n_end:  1858
+Rank  760 number of clusters:  2
+For rank  217 n_start:  651 , n_end:  654
+Rank  217 number of clusters:  3
+For rank  771 n_start:  1878 , n_end:  1880
+Rank  771 number of clusters:  2
+For rank  473 n_start:  1282 , n_end:  1284
+Rank  473 number of clusters:  2
+For rank  666 n_start:  1668 , n_end:  1670
+Rank  666 number of clusters:  2
+For rank  314 n_start:  942 , n_end:  945
+Rank  314 number of clusters:  3
+For rank  35 n_start:  105 , n_end:  108
+Rank  35 number of clusters:  3
+For rank  632 n_start:  1600 , n_end:  1602
+Rank  632 number of clusters:  2
+For rank  518 n_start:  1372 , n_end:  1374
+Rank  518 number of clusters:  2
+For rank  184 n_start:  552 , n_end:  555
+Rank  184 number of clusters:  3
+For rank  408 n_start:  1152 , n_end:  1154
+Rank  408 number of clusters:  2
+For rank  728 n_start:  1792 , n_end:  1794
+Rank  728 number of clusters:  2
+For rank  67 n_start:  201 , n_end:  204
+Rank  67 number of clusters:  3
+For rank  442 n_start:  1220 , n_end:  1222
+Rank  442 number of clusters:  2
+For rank  375 n_start:  1086 , n_end:  1088
+Rank  375 number of clusters:  2
+For rank  100 n_start:  300 , n_end:  303
+Rank  100 number of clusters:  3
+For rank  151 n_start:  453 , n_end:  456
+Rank  151 number of clusters:  3
+For rank  605 n_start:  1546 , n_end:  1548
+Rank  605 number of clusters:  2
+For rank  346 n_start:  1028 , n_end:  1030
+Rank  346 number of clusters:  2
+For rank  569 n_start:  1474 , n_end:  1476
+Rank  569 number of clusters:  2
+For rank  699 n_start:  1734 , n_end:  1736
+Rank  699 number of clusters:  2
+For rank  826 n_start:  1988 , n_end:  1990
+Rank  826 number of clusters:  2
+For rank  28 n_start:  84 , n_end:  87
+Rank  28 number of clusters:  3
+For rank  487 n_start:  1310 , n_end:  1312
+Rank  487 number of clusters:  2
+For rank  259 n_start:  777 , n_end:  780
+Rank  259 number of clusters:  3
+For rank  241 n_start:  723 , n_end:  726
+Rank  241 number of clusters:  3
+For rank  761 n_start:  1858 , n_end:  1860
+Rank  761 number of clusters:  2
+For rank  222 n_start:  666 , n_end:  669
+Rank  222 number of clusters:  3
+For rank  772 n_start:  1880 , n_end:  1882
+Rank  772 number of clusters:  2
+For rank  474 n_start:  1284 , n_end:  1286
+Rank  474 number of clusters:  2
+For rank  667 n_start:  1670 , n_end:  1672
+Rank  667 number of clusters:  2
+For rank  315 n_start:  945 , n_end:  948
+Rank  315 number of clusters:  3
+For rank  36 n_start:  108 , n_end:  111
+Rank  36 number of clusters:  3
+For rank  633 n_start:  1602 , n_end:  1604
+Rank  633 number of clusters:  2
+For rank  527 n_start:  1390 , n_end:  1392
+Rank  527 number of clusters:  2
+For rank  185 n_start:  555 , n_end:  558
+Rank  185 number of clusters:  3
+For rank  409 n_start:  1154 , n_end:  1156
+Rank  409 number of clusters:  2
+For rank  735 n_start:  1806 , n_end:  1808
+Rank  735 number of clusters:  2
+For rank  69 n_start:  207 , n_end:  210
+Rank  69 number of clusters:  3
+For rank  443 n_start:  1222 , n_end:  1224
+Rank  443 number of clusters:  2
+For rank  376 n_start:  1088 , n_end:  1090
+Rank  376 number of clusters:  2
+For rank  102 n_start:  306 , n_end:  309
+Rank  102 number of clusters:  3
+For rank  153 n_start:  459 , n_end:  462
+Rank  153 number of clusters:  3
+For rank  606 n_start:  1548 , n_end:  1550
+Rank  606 number of clusters:  2
+For rank  347 n_start:  1030 , n_end:  1032
+Rank  347 number of clusters:  2
+For rank  571 n_start:  1478 , n_end:  1480
+Rank  571 number of clusters:  2
+For rank  700 n_start:  1736 , n_end:  1738
+Rank  700 number of clusters:  2
+For rank  827 n_start:  1990 , n_end:  1992
+Rank  827 number of clusters:  2
+For rank  29 n_start:  87 , n_end:  90
+Rank  29 number of clusters:  3
+For rank  488 n_start:  1312 , n_end:  1314
+Rank  488 number of clusters:  2
+For rank  260 n_start:  780 , n_end:  783
+Rank  260 number of clusters:  3
+For rank  242 n_start:  726 , n_end:  729
+Rank  242 number of clusters:  3
+For rank  763 n_start:  1862 , n_end:  1864
+Rank  763 number of clusters:  2
+For rank  223 n_start:  669 , n_end:  672
+Rank  223 number of clusters:  3
+For rank  773 n_start:  1882 , n_end:  1884
+Rank  773 number of clusters:  2
+For rank  475 n_start:  1286 , n_end:  1288
+Rank  475 number of clusters:  2
+For rank  668 n_start:  1672 , n_end:  1674
+Rank  668 number of clusters:  2
+For rank  316 n_start:  948 , n_end:  951
+Rank  316 number of clusters:  3
+For rank  37 n_start:  111 , n_end:  114
+Rank  37 number of clusters:  3
+For rank  635 n_start:  1606 , n_end:  1608
+Rank  635 number of clusters:  2
+For rank  528 n_start:  1392 , n_end:  1394
+Rank  528 number of clusters:  2
+For rank  186 n_start:  558 , n_end:  561
+Rank  186 number of clusters:  3
+For rank  410 n_start:  1156 , n_end:  1158
+Rank  410 number of clusters:  2
+For rank  705 n_start:  1746 , n_end:  1748
+Rank  705 number of clusters:  2
+For rank  70 n_start:  210 , n_end:  213
+Rank  70 number of clusters:  3
+For rank  444 n_start:  1224 , n_end:  1226
+Rank  444 number of clusters:  2
+For rank  378 n_start:  1092 , n_end:  1094
+Rank  378 number of clusters:  2
+For rank  105 n_start:  315 , n_end:  318
+Rank  105 number of clusters:  3
+For rank  154 n_start:  462 , n_end:  465
+Rank  154 number of clusters:  3
+For rank  577 n_start:  1490 , n_end:  1492
+Rank  577 number of clusters:  2
+For rank  348 n_start:  1032 , n_end:  1034
+Rank  348 number of clusters:  2
+For rank  572 n_start:  1480 , n_end:  1482
+Rank  572 number of clusters:  2
+For rank  701 n_start:  1738 , n_end:  1740
+Rank  701 number of clusters:  2
+For rank  828 n_start:  1992 , n_end:  1994
+Rank  828 number of clusters:  2
+For rank  30 n_start:  90 , n_end:  93
+Rank  30 number of clusters:  3
+For rank  493 n_start:  1322 , n_end:  1324
+Rank  493 number of clusters:  2
+For rank  263 n_start:  789 , n_end:  792
+Rank  263 number of clusters:  3
+For rank  243 n_start:  729 , n_end:  732
+Rank  243 number of clusters:  3
+For rank  765 n_start:  1866 , n_end:  1868
+Rank  765 number of clusters:  2
+For rank  193 n_start:  579 , n_end:  582
+Rank  193 number of clusters:  3
+For rank  774 n_start:  1884 , n_end:  1886
+Rank  774 number of clusters:  2
+For rank  477 n_start:  1290 , n_end:  1292
+Rank  477 number of clusters:  2
+For rank  670 n_start:  1676 , n_end:  1678
+Rank  670 number of clusters:  2
+For rank  317 n_start:  951 , n_end:  954
+Rank  317 number of clusters:  3
+For rank  38 n_start:  114 , n_end:  117
+Rank  38 number of clusters:  3
+For rank  636 n_start:  1608 , n_end:  1610
+Rank  636 number of clusters:  2
+For rank  529 n_start:  1394 , n_end:  1396
+Rank  529 number of clusters:  2
+For rank  187 n_start:  561 , n_end:  564
+Rank  187 number of clusters:  3
+For rank  411 n_start:  1158 , n_end:  1160
+Rank  411 number of clusters:  2
+For rank  706 n_start:  1748 , n_end:  1750
+Rank  706 number of clusters:  2
+For rank  71 n_start:  213 , n_end:  216
+Rank  71 number of clusters:  3
+For rank  445 n_start:  1226 , n_end:  1228
+Rank  445 number of clusters:  2
+For rank  106 n_start:  318 , n_end:  321
+Rank  106 number of clusters:  3
+For rank  155 n_start:  465 , n_end:  468
+Rank  155 number of clusters:  3
+For rank  349 n_start:  1034 , n_end:  1036
+Rank  349 number of clusters:  2
+For rank  574 n_start:  1484 , n_end:  1486
+Rank  574 number of clusters:  2
+For rank  702 n_start:  1740 , n_end:  1742
+Rank  702 number of clusters:  2
+For rank  829 n_start:  1994 , n_end:  1996
+Rank  829 number of clusters:  2
+For rank  497 n_start:  1330 , n_end:  1332
+Rank  497 number of clusters:  2
+For rank  264 n_start:  792 , n_end:  795
+Rank  264 number of clusters:  3
+For rank  245 n_start:  735 , n_end:  738
+Rank  245 number of clusters:  3
+For rank  766 n_start:  1868 , n_end:  1870
+Rank  766 number of clusters:  2
+For rank  194 n_start:  582 , n_end:  585
+Rank  194 number of clusters:  3
+For rank  775 n_start:  1886 , n_end:  1888
+Rank  775 number of clusters:  2
+For rank  478 n_start:  1292 , n_end:  1294
+Rank  478 number of clusters:  2
+For rank  671 n_start:  1678 , n_end:  1680
+Rank  671 number of clusters:  2
+For rank  288 n_start:  864 , n_end:  867
+Rank  288 number of clusters:  3
+For rank  40 n_start:  120 , n_end:  123
+Rank  40 number of clusters:  3
+For rank  637 n_start:  1610 , n_end:  1612
+Rank  637 number of clusters:  2
+For rank  513 n_start:  1362 , n_end:  1364
+Rank  513 number of clusters:  2
+For rank  188 n_start:  564 , n_end:  567
+Rank  188 number of clusters:  3
+For rank  412 n_start:  1160 , n_end:  1162
+Rank  412 number of clusters:  2
+For rank  707 n_start:  1750 , n_end:  1752
+Rank  707 number of clusters:  2
+For rank  72 n_start:  216 , n_end:  219
+Rank  72 number of clusters:  3
+For rank  446 n_start:  1228 , n_end:  1230
+Rank  446 number of clusters:  2
+For rank  107 n_start:  321 , n_end:  324
+Rank  107 number of clusters:  3
+For rank  156 n_start:  468 , n_end:  471
+Rank  156 number of clusters:  3
+For rank  351 n_start:  1038 , n_end:  1040
+Rank  351 number of clusters:  2
+For rank  575 n_start:  1486 , n_end:  1488
+Rank  575 number of clusters:  2
+For rank  703 n_start:  1742 , n_end:  1744
+Rank  703 number of clusters:  2
+For rank  830 n_start:  1996 , n_end:  1998
+Rank  830 number of clusters:  2
+For rank  500 n_start:  1336 , n_end:  1338
+Rank  500 number of clusters:  2
+For rank  267 n_start:  801 , n_end:  804
+Rank  267 number of clusters:  3
+For rank  247 n_start:  741 , n_end:  744
+Rank  247 number of clusters:  3
+For rank  767 n_start:  1870 , n_end:  1872
+Rank  767 number of clusters:  2
+For rank  195 n_start:  585 , n_end:  588
+Rank  195 number of clusters:  3
+For rank  776 n_start:  1888 , n_end:  1890
+Rank  776 number of clusters:  2
+For rank  459 n_start:  1254 , n_end:  1256
+Rank  459 number of clusters:  2
+For rank  289 n_start:  867 , n_end:  870
+Rank  289 number of clusters:  3
+For rank  41 n_start:  123 , n_end:  126
+Rank  41 number of clusters:  3
+For rank  638 n_start:  1612 , n_end:  1614
+Rank  638 number of clusters:  2
+For rank  515 n_start:  1366 , n_end:  1368
+Rank  515 number of clusters:  2
+For rank  190 n_start:  570 , n_end:  573
+Rank  190 number of clusters:  3
+For rank  413 n_start:  1162 , n_end:  1164
+Rank  413 number of clusters:  2
+For rank  708 n_start:  1752 , n_end:  1754
+Rank  708 number of clusters:  2
+For rank  73 n_start:  219 , n_end:  222
+Rank  73 number of clusters:  3
+For rank  447 n_start:  1230 , n_end:  1232
+Rank  447 number of clusters:  2
+For rank  108 n_start:  324 , n_end:  327
+Rank  108 number of clusters:  3
+For rank  157 n_start:  471 , n_end:  474
+Rank  157 number of clusters:  3
+For rank  503 n_start:  1342 , n_end:  1344
+Rank  503 number of clusters:  2
+For rank  268 n_start:  804 , n_end:  807
+Rank  268 number of clusters:  3
+For rank  252 n_start:  756 , n_end:  759
+Rank  252 number of clusters:  3
+For rank  197 n_start:  591 , n_end:  594
+Rank  197 number of clusters:  3
+For rank  777 n_start:  1890 , n_end:  1892
+Rank  777 number of clusters:  2
+For rank  476 n_start:  1288 , n_end:  1290
+Rank  476 number of clusters:  2
+For rank  641 n_start:  1618 , n_end:  1620
+Rank  641 number of clusters:  2
+For rank  290 n_start:  870 , n_end:  873
+Rank  290 number of clusters:  3
+For rank  43 n_start:  129 , n_end:  132
+Rank  43 number of clusters:  3
+For rank  639 n_start:  1614 , n_end:  1616
+Rank  639 number of clusters:  2
+For rank  415 n_start:  1166 , n_end:  1168
+Rank  415 number of clusters:  2
+For rank  709 n_start:  1754 , n_end:  1756
+Rank  709 number of clusters:  2
+For rank  74 n_start:  222 , n_end:  225
+Rank  74 number of clusters:  3
+For rank  420 n_start:  1176 , n_end:  1178
+Rank  420 number of clusters:  2
+For rank  159 n_start:  477 , n_end:  480
+Rank  159 number of clusters:  3
+For rank  270 n_start:  810 , n_end:  813
+Rank  270 number of clusters:  3
+For rank  253 n_start:  759 , n_end:  762
+Rank  253 number of clusters:  3
+For rank  198 n_start:  594 , n_end:  597
+Rank  198 number of clusters:  3
+For rank  778 n_start:  1892 , n_end:  1894
+Rank  778 number of clusters:  2
+For rank  642 n_start:  1620 , n_end:  1622
+Rank  642 number of clusters:  2
+For rank  291 n_start:  873 , n_end:  876
+Rank  291 number of clusters:  3
+For rank  46 n_start:  138 , n_end:  141
+Rank  46 number of clusters:  3
+For rank  517 n_start:  1370 , n_end:  1372
+Rank  517 number of clusters:  2
+For rank  710 n_start:  1756 , n_end:  1758
+Rank  710 number of clusters:  2
+For rank  75 n_start:  225 , n_end:  228
+Rank  75 number of clusters:  3
+For rank  111 n_start:  333 , n_end:  336
+Rank  111 number of clusters:  3
+For rank  273 n_start:  819 , n_end:  822
+Rank  273 number of clusters:  3
+For rank  224 n_start:  672 , n_end:  675
+Rank  224 number of clusters:  3
+For rank  200 n_start:  600 , n_end:  603
+Rank  200 number of clusters:  3
+For rank  781 n_start:  1898 , n_end:  1900
+Rank  781 number of clusters:  2
+For rank  643 n_start:  1622 , n_end:  1624
+Rank  643 number of clusters:  2
+For rank  292 n_start:  876 , n_end:  879
+Rank  292 number of clusters:  3
+For rank  47 n_start:  141 , n_end:  144
+Rank  47 number of clusters:  3
+For rank  522 n_start:  1380 , n_end:  1382
+Rank  522 number of clusters:  2
+For rank  711 n_start:  1758 , n_end:  1760
+Rank  711 number of clusters:  2
+For rank  76 n_start:  228 , n_end:  231
+Rank  76 number of clusters:  3
+For rank  114 n_start:  342 , n_end:  345
+Rank  114 number of clusters:  3
+For rank  274 n_start:  822 , n_end:  825
+Rank  274 number of clusters:  3
+For rank  225 n_start:  675 , n_end:  678
+Rank  225 number of clusters:  3
+For rank  201 n_start:  603 , n_end:  606
+Rank  201 number of clusters:  3
+For rank  782 n_start:  1900 , n_end:  1902
+Rank  782 number of clusters:  2
+For rank  644 n_start:  1624 , n_end:  1626
+Rank  644 number of clusters:  2
+For rank  294 n_start:  882 , n_end:  885
+Rank  294 number of clusters:  3
+For rank  48 n_start:  144 , n_end:  147
+Rank  48 number of clusters:  3
+For rank  523 n_start:  1382 , n_end:  1384
+Rank  523 number of clusters:  2
+For rank  712 n_start:  1760 , n_end:  1762
+Rank  712 number of clusters:  2
+For rank  78 n_start:  234 , n_end:  237
+Rank  78 number of clusters:  3
+For rank  116 n_start:  348 , n_end:  351
+Rank  116 number of clusters:  3
+For rank  275 n_start:  825 , n_end:  828
+Rank  275 number of clusters:  3
+For rank  226 n_start:  678 , n_end:  681
+Rank  226 number of clusters:  3
+For rank  203 n_start:  609 , n_end:  612
+Rank  203 number of clusters:  3
+For rank  783 n_start:  1902 , n_end:  1904
+Rank  783 number of clusters:  2
+For rank  645 n_start:  1626 , n_end:  1628
+Rank  645 number of clusters:  2
+For rank  49 n_start:  147 , n_end:  150
+Rank  49 number of clusters:  3
+For rank  524 n_start:  1384 , n_end:  1386
+Rank  524 number of clusters:  2
+For rank  714 n_start:  1764 , n_end:  1766
+Rank  714 number of clusters:  2
+For rank  79 n_start:  237 , n_end:  240
+Rank  79 number of clusters:  3
+For rank  118 n_start:  354 , n_end:  357
+Rank  118 number of clusters:  3
+For rank  277 n_start:  831 , n_end:  834
+Rank  277 number of clusters:  3
+For rank  204 n_start:  612 , n_end:  615
+Rank  204 number of clusters:  3
+For rank  784 n_start:  1904 , n_end:  1906
+Rank  784 number of clusters:  2
+For rank  647 n_start:  1630 , n_end:  1632
+Rank  647 number of clusters:  2
+For rank  295 n_start:  885 , n_end:  888
+Rank  295 number of clusters:  3
+For rank  50 n_start:  150 , n_end:  153
+Rank  50 number of clusters:  3
+For rank  526 n_start:  1388 , n_end:  1390
+Rank  526 number of clusters:  2
+For rank  715 n_start:  1766 , n_end:  1768
+Rank  715 number of clusters:  2
+For rank  80 n_start:  240 , n_end:  243
+Rank  80 number of clusters:  3
+For rank  120 n_start:  360 , n_end:  363
+Rank  120 number of clusters:  3
+For rank  281 n_start:  843 , n_end:  846
+Rank  281 number of clusters:  3
+For rank  229 n_start:  687 , n_end:  690
+Rank  229 number of clusters:  3
+For rank  205 n_start:  615 , n_end:  618
+Rank  205 number of clusters:  3
+For rank  786 n_start:  1908 , n_end:  1910
+Rank  786 number of clusters:  2
+For rank  651 n_start:  1638 , n_end:  1640
+Rank  651 number of clusters:  2
+For rank  296 n_start:  888 , n_end:  891
+Rank  296 number of clusters:  3
+For rank  51 n_start:  153 , n_end:  156
+Rank  51 number of clusters:  3
+For rank  531 n_start:  1398 , n_end:  1400
+Rank  531 number of clusters:  2
+For rank  716 n_start:  1768 , n_end:  1770
+Rank  716 number of clusters:  2
+For rank  81 n_start:  243 , n_end:  246
+Rank  81 number of clusters:  3
+For rank  122 n_start:  366 , n_end:  369
+Rank  122 number of clusters:  3
+For rank  282 n_start:  846 , n_end:  849
+Rank  282 number of clusters:  3
+For rank  235 n_start:  705 , n_end:  708
+Rank  235 number of clusters:  3
+For rank  207 n_start:  621 , n_end:  624
+Rank  207 number of clusters:  3
+For rank  787 n_start:  1910 , n_end:  1912
+Rank  787 number of clusters:  2
+For rank  652 n_start:  1640 , n_end:  1642
+Rank  652 number of clusters:  2
+For rank  297 n_start:  891 , n_end:  894
+Rank  297 number of clusters:  3
+For rank  52 n_start:  156 , n_end:  159
+Rank  52 number of clusters:  3
+For rank  532 n_start:  1400 , n_end:  1402
+Rank  532 number of clusters:  2
+For rank  717 n_start:  1770 , n_end:  1772
+Rank  717 number of clusters:  2
+For rank  82 n_start:  246 , n_end:  249
+Rank  82 number of clusters:  3
+For rank  123 n_start:  369 , n_end:  372
+Rank  123 number of clusters:  3
+For rank  285 n_start:  855 , n_end:  858
+Rank  285 number of clusters:  3
+For rank  236 n_start:  708 , n_end:  711
+Rank  236 number of clusters:  3
+For rank  208 n_start:  624 , n_end:  627
+Rank  208 number of clusters:  3
+For rank  789 n_start:  1914 , n_end:  1916
+Rank  789 number of clusters:  2
+For rank  655 n_start:  1646 , n_end:  1648
+Rank  655 number of clusters:  2
+For rank  298 n_start:  894 , n_end:  897
+Rank  298 number of clusters:  3
+For rank  53 n_start:  159 , n_end:  162
+Rank  53 number of clusters:  3
+For rank  534 n_start:  1404 , n_end:  1406
+Rank  534 number of clusters:  2
+For rank  83 n_start:  249 , n_end:  252
+Rank  83 number of clusters:  3
+For rank  124 n_start:  372 , n_end:  375
+Rank  124 number of clusters:  3
+For rank  287 n_start:  861 , n_end:  864
+Rank  287 number of clusters:  3
+For rank  239 n_start:  717 , n_end:  720
+Rank  239 number of clusters:  3
+For rank  209 n_start:  627 , n_end:  630
+Rank  209 number of clusters:  3
+For rank  790 n_start:  1916 , n_end:  1918
+Rank  790 number of clusters:  2
+For rank  656 n_start:  1648 , n_end:  1650
+Rank  656 number of clusters:  2
+For rank  299 n_start:  897 , n_end:  900
+Rank  299 number of clusters:  3
+For rank  54 n_start:  162 , n_end:  165
+Rank  54 number of clusters:  3
+For rank  535 n_start:  1406 , n_end:  1408
+Rank  535 number of clusters:  2
+For rank  719 n_start:  1774 , n_end:  1776
+Rank  719 number of clusters:  2
+For rank  84 n_start:  252 , n_end:  255
+Rank  84 number of clusters:  3
+For rank  125 n_start:  375 , n_end:  378
+Rank  125 number of clusters:  3
+For rank  257 n_start:  771 , n_end:  774
+Rank  257 number of clusters:  3
+For rank  244 n_start:  732 , n_end:  735
+Rank  244 number of clusters:  3
+For rank  210 n_start:  630 , n_end:  633
+Rank  210 number of clusters:  3
+For rank  791 n_start:  1918 , n_end:  1920
+Rank  791 number of clusters:  2
+For rank  657 n_start:  1650 , n_end:  1652
+Rank  657 number of clusters:  2
+For rank  300 n_start:  900 , n_end:  903
+Rank  300 number of clusters:  3
+For rank  56 n_start:  168 , n_end:  171
+Rank  56 number of clusters:  3
+For rank  536 n_start:  1408 , n_end:  1410
+Rank  536 number of clusters:  2
+For rank  720 n_start:  1776 , n_end:  1778
+Rank  720 number of clusters:  2
+For rank  85 n_start:  255 , n_end:  258
+Rank  85 number of clusters:  3
+For rank  126 n_start:  378 , n_end:  381
+Rank  126 number of clusters:  3
+For rank  258 n_start:  774 , n_end:  777
+Rank  258 number of clusters:  3
+For rank  246 n_start:  738 , n_end:  741
+Rank  246 number of clusters:  3
+For rank  211 n_start:  633 , n_end:  636
+Rank  211 number of clusters:  3
+For rank  792 n_start:  1920 , n_end:  1922
+Rank  792 number of clusters:  2
+For rank  658 n_start:  1652 , n_end:  1654
+Rank  658 number of clusters:  2
+For rank  302 n_start:  906 , n_end:  909
+Rank  302 number of clusters:  3
+For rank  57 n_start:  171 , n_end:  174
+Rank  57 number of clusters:  3
+For rank  537 n_start:  1410 , n_end:  1412
+Rank  537 number of clusters:  2
+For rank  721 n_start:  1778 , n_end:  1780
+Rank  721 number of clusters:  2
+For rank  86 n_start:  258 , n_end:  261
+Rank  86 number of clusters:  3
+For rank  127 n_start:  381 , n_end:  384
+Rank  127 number of clusters:  3
+For rank  261 n_start:  783 , n_end:  786
+Rank  261 number of clusters:  3
+For rank  248 n_start:  744 , n_end:  747
+Rank  248 number of clusters:  3
+For rank  212 n_start:  636 , n_end:  639
+Rank  212 number of clusters:  3
+For rank  794 n_start:  1924 , n_end:  1926
+Rank  794 number of clusters:  2
+For rank  659 n_start:  1654 , n_end:  1656
+Rank  659 number of clusters:  2
+For rank  303 n_start:  909 , n_end:  912
+Rank  303 number of clusters:  3
+For rank  60 n_start:  180 , n_end:  183
+Rank  60 number of clusters:  3
+For rank  538 n_start:  1412 , n_end:  1414
+Rank  538 number of clusters:  2
+For rank  723 n_start:  1782 , n_end:  1784
+Rank  723 number of clusters:  2
+For rank  87 n_start:  261 , n_end:  264
+Rank  87 number of clusters:  3
+For rank  262 n_start:  786 , n_end:  789
+Rank  262 number of clusters:  3
+For rank  249 n_start:  747 , n_end:  750
+Rank  249 number of clusters:  3
+For rank  214 n_start:  642 , n_end:  645
+Rank  214 number of clusters:  3
+For rank  797 n_start:  1930 , n_end:  1932
+Rank  797 number of clusters:  2
+For rank  660 n_start:  1656 , n_end:  1658
+Rank  660 number of clusters:  2
+For rank  305 n_start:  915 , n_end:  918
+Rank  305 number of clusters:  3
+For rank  61 n_start:  183 , n_end:  186
+Rank  61 number of clusters:  3
+For rank  539 n_start:  1414 , n_end:  1416
+Rank  539 number of clusters:  2
+For rank  724 n_start:  1784 , n_end:  1786
+Rank  724 number of clusters:  2
+For rank  88 n_start:  264 , n_end:  267
+Rank  88 number of clusters:  3
+For rank  265 n_start:  795 , n_end:  798
+Rank  265 number of clusters:  3
+For rank  250 n_start:  750 , n_end:  753
+Rank  250 number of clusters:  3
+For rank  215 n_start:  645 , n_end:  648
+Rank  215 number of clusters:  3
+For rank  799 n_start:  1934 , n_end:  1936
+Rank  799 number of clusters:  2
+For rank  661 n_start:  1658 , n_end:  1660
+Rank  661 number of clusters:  2
+For rank  307 n_start:  921 , n_end:  924
+Rank  307 number of clusters:  3
+For rank  62 n_start:  186 , n_end:  189
+Rank  62 number of clusters:  3
+For rank  540 n_start:  1416 , n_end:  1418
+Rank  540 number of clusters:  2
+For rank  725 n_start:  1786 , n_end:  1788
+Rank  725 number of clusters:  2
+For rank  89 n_start:  267 , n_end:  270
+Rank  89 number of clusters:  3
+For rank  266 n_start:  798 , n_end:  801
+Rank  266 number of clusters:  3
+For rank  251 n_start:  753 , n_end:  756
+Rank  251 number of clusters:  3
+For rank  216 n_start:  648 , n_end:  651
+Rank  216 number of clusters:  3
+For rank  662 n_start:  1660 , n_end:  1662
+Rank  662 number of clusters:  2
+For rank  309 n_start:  927 , n_end:  930
+Rank  309 number of clusters:  3
+For rank  63 n_start:  189 , n_end:  192
+Rank  63 number of clusters:  3
+For rank  541 n_start:  1418 , n_end:  1420
+Rank  541 number of clusters:  2
+For rank  727 n_start:  1790 , n_end:  1792
+Rank  727 number of clusters:  2
+For rank  90 n_start:  270 , n_end:  273
+Rank  90 number of clusters:  3
+For rank  269 n_start:  807 , n_end:  810
+Rank  269 number of clusters:  3
+For rank  254 n_start:  762 , n_end:  765
+Rank  254 number of clusters:  3
+For rank  218 n_start:  654 , n_end:  657
+Rank  218 number of clusters:  3
+For rank  664 n_start:  1664 , n_end:  1666
+Rank  664 number of clusters:  2
+For rank  312 n_start:  936 , n_end:  939
+Rank  312 number of clusters:  3
+For rank  542 n_start:  1420 , n_end:  1422
+Rank  542 number of clusters:  2
+For rank  729 n_start:  1794 , n_end:  1796
+Rank  729 number of clusters:  2
+For rank  91 n_start:  273 , n_end:  276
+Rank  91 number of clusters:  3
+For rank  271 n_start:  813 , n_end:  816
+Rank  271 number of clusters:  3
+For rank  255 n_start:  765 , n_end:  768
+Rank  255 number of clusters:  3
+For rank  219 n_start:  657 , n_end:  660
+Rank  219 number of clusters:  3
+For rank  669 n_start:  1674 , n_end:  1676
+Rank  669 number of clusters:  2
+For rank  313 n_start:  939 , n_end:  942
+Rank  313 number of clusters:  3
+For rank  514 n_start:  1364 , n_end:  1366
+Rank  514 number of clusters:  2
+For rank  731 n_start:  1798 , n_end:  1800
+Rank  731 number of clusters:  2
+For rank  92 n_start:  276 , n_end:  279
+Rank  92 number of clusters:  3
+For rank  272 n_start:  816 , n_end:  819
+Rank  272 number of clusters:  3
+For rank  220 n_start:  660 , n_end:  663
+Rank  220 number of clusters:  3
+For rank  318 n_start:  954 , n_end:  957
+Rank  318 number of clusters:  3
+For rank  519 n_start:  1374 , n_end:  1376
+Rank  519 number of clusters:  2
+For rank  732 n_start:  1800 , n_end:  1802
+Rank  732 number of clusters:  2
+For rank  93 n_start:  279 , n_end:  282
+Rank  93 number of clusters:  3
+For rank  276 n_start:  828 , n_end:  831
+Rank  276 number of clusters:  3
+For rank  221 n_start:  663 , n_end:  666
+Rank  221 number of clusters:  3
+For rank  319 n_start:  957 , n_end:  960
+Rank  319 number of clusters:  3
+For rank  520 n_start:  1376 , n_end:  1378
+Rank  520 number of clusters:  2
+For rank  733 n_start:  1802 , n_end:  1804
+Rank  733 number of clusters:  2
+For rank  94 n_start:  282 , n_end:  285
+Rank  94 number of clusters:  3
+For rank  278 n_start:  834 , n_end:  837
+Rank  278 number of clusters:  3
+For rank  530 n_start:  1396 , n_end:  1398
+Rank  530 number of clusters:  2
+For rank  734 n_start:  1804 , n_end:  1806
+Rank  734 number of clusters:  2
+For rank  95 n_start:  285 , n_end:  288
+Rank  95 number of clusters:  3
+For rank  279 n_start:  837 , n_end:  840
+Rank  279 number of clusters:  3
+For rank  68 n_start:  204 , n_end:  207
+Rank  68 number of clusters:  3
+For rank  280 n_start:  840 , n_end:  843
+Rank  280 number of clusters:  3
+For rank  283 n_start:  849 , n_end:  852
+Rank  283 number of clusters:  3
+For rank  284 n_start:  852 , n_end:  855
+Rank  284 number of clusters:  3
+For rank  379 n_start:  1094 , n_end:  1096
+Rank  379 number of clusters:  2
+For rank  380 n_start:  1096 , n_end:  1098
+Rank  380 number of clusters:  2
+For rank  383 n_start:  1102 , n_end:  1104
+Rank  383 number of clusters:  2
+ 39920. 39960.]
+Total Time elapsed  =  16762.079169750214
